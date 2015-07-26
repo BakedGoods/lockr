@@ -14,9 +14,11 @@ Current server is built for a Raspberry Pi.
 Lockr uses Parse.com to store user data. Create a free account and a new application for your lock. In your application add a new class called *Lock*. Add a new column  called *ip* then add a new row with your device's ip in the appropriate column.
 
 ##### Raspberry Pi
+
+###### *Hardware setup guide coming soon*
+
 Get your application keys from Parse and copy into the `parse_settings.py` file.
 Run the `server.py` file and you should be able to control the lock locally via the API.
-
 ```
 Open lock: /lock?state=open
 Close lock: /lock?state=close
