@@ -96,7 +96,7 @@ public class MainActivity extends ActionBarActivity implements LockListFragment.
                 .commit();
     }
 
-    public void controlLock(final ParseObject lock, final View view){
+    public void controlLock2(final ParseObject lock, final View view){
         //call cloud code
         HashMap<String, Object> params = new HashMap<String, Object>();
         params.put("ip", lock.getString("ip"));
@@ -112,6 +112,31 @@ public class MainActivity extends ActionBarActivity implements LockListFragment.
         });
     }
 
+	public void controlLock(final ParseObject lock, final View view){
+        Log.d("lock", "lock 2");
+        JsonObject json = new JsonObject();
+        json.addProperty("foo", "bar");
+        String ip = lock.getString("ip");
+        String state = lock.getString("state");
+        if(state.equals("open"))
+            state = "close";
+        else
+            state = "open";
+        Ion.with(this)
+                .load("http://" + ip + "/lock?state="+state)
+                .asJsonObject()
+                .setCallback(new FutureCallback<JsonObject>() {
+                    @Override
+                    public void onCompleted(Exception e, JsonObject result) {
+                        // do stuff with the result or error
+                        if(e != null)
+                           toggleIcon(lock.getString("state"), view, lock);
+                        else
+                            Log.d("ControlError", e.getMessage() + "");
+                    }
+                });
+    }
+	
     public void lockClick(View view){
         ParseObject lock = (ParseObject)view.getTag();
         controlLock(lock, view);
