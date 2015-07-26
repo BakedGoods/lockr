@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.bakedgoodsltd.lockr.AboutActivity" >
+    <item android:id="@+id/action_settings"
+        android:title="@string/title_activity_about"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

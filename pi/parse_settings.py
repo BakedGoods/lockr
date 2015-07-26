@@ -1,0 +1,3 @@
+APPLICATION_ID = ""
+REST_API_KEY = ""
+MASTER_KEY = ""

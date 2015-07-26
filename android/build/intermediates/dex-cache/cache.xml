@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-12c1a64ad23e0be888f0dfa6119e65a210bf4620.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\exploded-aar\polaris-android.libraries\AndroidCharts\unspecified\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b4888eb37a6e7322fd9ea1f961bf21b05d8f6fec">
+        <dex dex="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\pre-dexed\debug\classes-8b3b502a068f90ebe91d5ea634ee130e1c9eafce.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\exploded-aar\com.venmo.android.pin\library\0.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6a04d140bf69d26bd06e64c327737845216b1694">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\classes-7d762b2b10f279e88c26ce5950e812d5f34e1c5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\classes-f5097ad652b058cc337ecc5617b78de267539906.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="22886d910315028a2b34b1ba068c265534ade87a">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\classes-768084342e3ab306b4ee962aba7bde087432022a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\exploded-aar\com.android.support\palette-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\classes-43808e7f71ba320add6a5425e0ee546fdae50822.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\gson-2.3-17ca38562a0797eea7b0ca802192ef962d4ffbb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\pre-dexed\debug\classes-a56be18aeeab862efe4f075ed477f988b4bca813.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\lockr android\app\libs\Parse-1.6.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2a812174191af5a4513a873602a765b0171f252c">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\Parse-1.6.0-716c9877c30d6612d91e4c9b768e971efd5840b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\exploded-aar\com.shamanland\fab\0.0.5\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="afa2521b8e4674ab156ad16b21247c2dff3cd44b">
+        <dex dex="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\pre-dexed\debug\classes-9b5587c15624dc343d1c75f4c46f4881c6751ff1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-5985452ad24d0262f1a9b8c9f1a258fe4a69b8b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\.gradle\caches\modules-2\files-2.1\com.koushikdutta.async\androidasync\2.1.4\44504f462f292532739c35a624004bd1b0a4385b\androidasync-2.1.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="44504f462f292532739c35a624004bd1b0a4385b">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\androidasync-2.1.4-9fbccbd1e8af7dee491f88dd83c009ae96e75932.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\classes-a18e736badeb8f342dbce3f60e9bd866d950a4c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\polaris-android\app\libs\Parse-1.6.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2a812174191af5a4513a873602a765b0171f252c">
+        <dex dex="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\pre-dexed\debug\Parse-1.6.0-6d6cb858b5cdf4c3a646f13b528e8eaf06245689.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\.gradle\caches\modules-2\files-2.1\com.koushikdutta.ion\ion\2.1.4\512ec0f8e4ef42178afaa25e3e78c4b990be9b61\ion-2.1.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="512ec0f8e4ef42178afaa25e3e78c4b990be9b61">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\ion-2.1.4-3438f6f38dcc2b365db6e76a74f90f7b52e72a59.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-79cbb730fb8bbeaa78dc5e76d35487e461e978d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="95fd37732ec852e99f07eeb516a3650172f1d136">
+        <dex dex="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\pre-dexed\debug\classes-412db2237c50a3ca307eebc2495d842ec5d10b41.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\exploded-aar\com.android.support\palette-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="b65c2fede61220ed2b6a063f11ca13160910089e">
+        <dex dex="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\pre-dexed\debug\classes-74915c6567c36c6116267dcfbe4c7ca37b5fbde1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-e959db58f85d578bc7ae2b1c3b62ddea8add0451.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\exploded-aar\com.shamanland\fab\0.0.8\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e58f2fb4991259b0d4e78c3b3dd686ec58736a29">
+        <dex dex="C:\Users\Keenen\Documents\lockr android\app\build\intermediates\pre-dexed\debug\classes-a586809a76a299ae75084ae5cf065216794bef9c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="C:\Users\Keenen\Documents\polaris-android\app\build\intermediates\pre-dexed\debug\classes-d98f7a93380d7e4c1ef34628182c3973998ed07f.jar" />
+    </item>
+
+</items>
